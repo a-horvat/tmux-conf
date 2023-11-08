@@ -1,4 +1,5 @@
 # Prerequisite install
+install tmp (git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm)
 install fzf (dnf install fzf)  
 install xclip (dnf install xclip)  
 
